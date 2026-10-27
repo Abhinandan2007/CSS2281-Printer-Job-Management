@@ -52,11 +52,11 @@ Test the program with multiple jobs, FIFO processing, cancellation, search, empt
 - The pending queue supports up to 100 jobs.
 
 ## 8. Team Members
-1. Name: __________ | Register No.: __________
-2. Name: __________ | Register No.: __________
-3. Name: __________ | Register No.: __________
-4. Name: __________ | Register No.: __________
-5. Name: __________ | Register No.: __________
+1. Name: ABHINANDAN B DHOTRE | Register No.: 20251ECE0208
+2. Name: TILAK H G | Register No.: 20251ECE0218
+3. Name:  LOHITH M GOWDA | Register No.: 20251ECE0220
+4. Name: VANDANA M S | Register No.: 20251ECE0185
+5. Name: LAVANYA P S | Register No.: 20251ECE0211
 
 ## 9. Conclusion
 This project demonstrates how a circular queue can manage print requests efficiently using FIFO processing.
